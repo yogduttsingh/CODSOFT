@@ -13,6 +13,9 @@ Each task demonstrates practical implementation of concepts in Python and AI/ML.
 - 🤖 **Chat Bot**  
   [View Repository](https://github.com/yogduttsingh/chat-bot)
 
+-    **Face Detection**
+  [View Repository](https://github.com/yogduttsingh/FACE-DETECTION-AND-RECOGNITION)
+
 ---
 
 ## 📂 Repository Structure
